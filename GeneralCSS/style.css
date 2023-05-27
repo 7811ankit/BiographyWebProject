@@ -1,0 +1,15 @@
+.container
+{
+    border: solid black;
+    background-color: black;
+}
+#header1, #header2{
+    color: aqua;
+    text-align: center;
+}
+#centralized-para
+{
+    color: aqua;
+}
+
+
